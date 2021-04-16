@@ -4,4 +4,4 @@ INSERT INTO hose (
     type,
     length
 ) VALUES
-(1, 1, 'C', 15);
+(1, "1", 'C', 15);

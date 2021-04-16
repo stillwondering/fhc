@@ -1,6 +1,6 @@
 CREATE TABLE IF NOT EXISTS hose (
     id INTEGER NOT NULL PRIMARY KEY,
-    code INTEGER NOT NULL,
+    code TEXT NOT NULL,
     type CHAR(1) NOT NULL,
     length INTEGER NOT NULL,
 
